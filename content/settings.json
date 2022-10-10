@@ -1,25 +1,25 @@
 {
   "domain": "cmaisonline.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#ff5c00",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "united",
     "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-22.png",
   "name": "C+",
-  "short_name": "cmaisonline",
+  "short_name": "C+",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "Oswald",
+  "favicon": "/img/uploads/logo-22.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#0b63a2",
+  "icon": "/img/uploads/logo-22.png",
   "store_id": 11807,
-  "description": "cmaisonline ",
-  "large_icon": "/img/large-icon.png"
+  "description": "VIVA uma experiência única em personalização com o seu celular, seja ele, de qual modelo for!",
+  "large_icon": "/img/uploads/logo-22.png"
 }
