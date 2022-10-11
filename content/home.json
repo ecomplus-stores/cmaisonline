@@ -63,6 +63,11 @@
     {
       "type": "dynamic-showcase",
       "load_more": true
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-nao-vai.png",
+      "link": "wa.me/5511984242400"
     }
   ]
 }
