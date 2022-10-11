@@ -53,6 +53,10 @@
       "title": "+ APROVEITA QUE TÁ EM OFERTA"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-recarregue.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
