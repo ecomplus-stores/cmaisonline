@@ -8,15 +8,11 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "CLUBE +VIVA",
+        "link": "https://cmaisviva.fidelimax.com.br/"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   },
   "categories_list": {
