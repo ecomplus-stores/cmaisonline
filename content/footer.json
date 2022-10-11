@@ -4,14 +4,12 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": false,
+    "list_pages": true,
     "title": "Conheça a C+",
-    "list": [
-      {}
-    ]
+    "list": []
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": [
       {}
