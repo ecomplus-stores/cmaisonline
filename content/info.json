@@ -1,18 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "CHEGAMOS ATÉ VC, DE QUALQUER CANTINHO DO BRASIL!",
+    "title": ""
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "PARCELE A SUA EXPERIÊNCIA EM ATÉ 10X!"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "CONTE COM A GARANTIA C+, EM TODAS AS EXPERIÊNCIAS!"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "ACUMULE RECOMPENSAS EXCLUSIVAS EM SUAS COMPRAS NO +VIVA!"
   }
 }
