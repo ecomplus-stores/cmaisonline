@@ -56,6 +56,10 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/bannher-frete-gratis.png"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true
     },
