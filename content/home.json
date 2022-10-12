@@ -4,13 +4,18 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-azul-para-sites-descontos-progressivos.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/website-gamer-pessoal-tecnologia-ousado-preto-e-laranja.png"
         },
         {
           "start": "",
