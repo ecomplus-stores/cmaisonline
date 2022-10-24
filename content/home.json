@@ -34,16 +34,6 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "news",
-      "title": "+ ACABOU DE CHEGAR",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
