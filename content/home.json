@@ -34,6 +34,16 @@
       "enabled": true
     },
     {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2022-11-01T23:28:35.993Z",
+      "end": "2022-12-01T02:59:36.574Z",
+      "notes": "OFERTAS +FRIDAY",
+      "offers": [
+        "62a3dd565bb080103f6f5d07"
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
