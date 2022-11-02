@@ -67,8 +67,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-recarregue.png",
-      "link": "wa.me/5511984242400"
+      "img": "/img/uploads/bannher-frete-gratis.png"
     },
     {
       "type": "collection-shelf",
@@ -80,7 +79,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/bannher-frete-gratis.png"
+      "img": "/img/uploads/banner-recarregue.png",
+      "link": "wa.me/5511984242400"
     },
     {
       "type": "dynamic-showcase",
