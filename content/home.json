@@ -34,36 +34,6 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2022-11-01T23:28:35.993Z",
-      "end": "2022-11-28T02:59:36.574Z",
-      "notes": "OFERTAS +FRIDAY",
-      "offers": [
-        "61809f80239b7206d3fc823b",
-        "6181e008239b7206d3fdb037",
-        "61809af8239b7206d3fc7d3e",
-        "6181e008239b7206d3fdb037",
-        "61809f80239b7206d3fc823b",
-        "62488eb92e405e04ff195be4",
-        "620d3bba7963422eee075aea",
-        "623517412e405e04ffe90c79",
-        "62880749df4d8071c9192455",
-        "62dac1d9eb85911216938766",
-        "629790ceac0cb4200ffa3016",
-        "62ad0b12eb85911216588132",
-        "63472cf673321213f8a8d71e",
-        "632ba81773321213f88742bb",
-        "6323bacc73321213f8793c75",
-        "62ed9e4aeb85911216a7d2c4",
-        "61fda7327963422eeeeac693",
-        "63167ca973321213f86839b2",
-        "624885ef2e405e04ff1934da",
-        "62fc1c9f1edaa56e539b1a3c",
-        "62d894c1eb85911216912dfb"
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
