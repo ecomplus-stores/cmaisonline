@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "CUPOM:NATAL10 - PARA GARANTIR SEU NATAL COM 10%OFF EM TODO SITE!",
+    "text": "APROVEITE 5%OFF EM TODO SITE PAGANDO EM PIX!",
     "link": "",
-    "background": "#f00105",
-    "color": "#050505"
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
