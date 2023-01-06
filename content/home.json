@@ -86,11 +86,6 @@
       "link": "wa.me/5511984242400"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-nao-vai.png",
       "link": "https://wa.me/5511984242400"
