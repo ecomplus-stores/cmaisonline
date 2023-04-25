@@ -21,12 +21,12 @@
       "/bag?BAG",
       "/cabos-e-carregadores?CABOS E CARREGADORES",
       "/capinhas?CAPINHAS",
+      "/cases?CASES",
       "/combos?COMBOS",
       "/fone-de-ouvido?FONE DE OUVIDO",
       "/peliculas?PELÍCULAS",
       "/personalizacao?PERSONALIZAÇÃO",
-      "/salva-celular?SALVA CELULAR",
-      "/cases?CASES"
+      "/salva-celular?SALVA CELULAR"
     ],
     "random": 6,
     "full_width": true
