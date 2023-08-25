@@ -1,16 +1,16 @@
 {
   "shipping": {
     "show": true,
-    "text": "CHEGAMOS ATÉ VC, EM QUALQUER CANTINHO DO BRASIL!",
+    "text": "CHEGAMOS ATÉ VOCÊ, EM QUALQUER CANTINHO DO BRASIL!",
     "title": ""
   },
   "installments": {
     "show": true,
-    "text": "PARCELE A SUA EXPERIÊNCIA EM ATÉ 12X!"
+    "text": "PARCELE A SUA COMPRA EM ATÉ 12X!"
   },
   "exchange": {
     "show": true,
-    "text": "CONTE COM A GARANTIA C+, EM TODAS AS EXPERIÊNCIAS!"
+    "text": "CONTE COM A GARANTIA C+, EM TODOS OS PEDIDOS!"
   },
   "promo": {
     "show": true,
