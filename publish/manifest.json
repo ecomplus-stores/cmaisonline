@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.728bf31c12e336fcc1d8c459f89dc36e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.55ed16614eaaec11afb52fb1f78ed2d4.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.54e71ac5bc2e903face0da5044c116c2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d48f8ade50054f6ee5461b5226969787.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ba04ec4a4290ef875219cde71530a371.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "C+ Capinhas e Acessórios ",
+  "short_name": "C+ Capinhas e Acessórios",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "VIVA uma experiência única em personalização com o seu celular, seja ele, de qual modelo for!",
+  "background_color": "#ffffff",
+  "theme_color": "#ff5c00"
+}
